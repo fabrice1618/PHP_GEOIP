@@ -1,4 +1,4 @@
-# Critères de notation
+# Critères PHP
 
 ## 1 - Fonctionnement
 - fonctionnement de l'application, respect des spécifications
